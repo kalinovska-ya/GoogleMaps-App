@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GoogleMaps-App/static/css/main.18382c26.chunk.css",
+    "main.js": "/GoogleMaps-App/static/js/main.7afacc9c.chunk.js",
+    "main.js.map": "/GoogleMaps-App/static/js/main.7afacc9c.chunk.js.map",
+    "runtime-main.js": "/GoogleMaps-App/static/js/runtime-main.2e607478.js",
+    "runtime-main.js.map": "/GoogleMaps-App/static/js/runtime-main.2e607478.js.map",
+    "static/js/2.eb0a333e.chunk.js": "/GoogleMaps-App/static/js/2.eb0a333e.chunk.js",
+    "static/js/2.eb0a333e.chunk.js.map": "/GoogleMaps-App/static/js/2.eb0a333e.chunk.js.map",
+    "index.html": "/GoogleMaps-App/index.html",
+    "static/css/main.18382c26.chunk.css.map": "/GoogleMaps-App/static/css/main.18382c26.chunk.css.map",
+    "static/js/2.eb0a333e.chunk.js.LICENSE.txt": "/GoogleMaps-App/static/js/2.eb0a333e.chunk.js.LICENSE.txt",
+    "static/media/bus-stop-pointer.00286be9.svg": "/GoogleMaps-App/static/media/bus-stop-pointer.00286be9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e607478.js",
+    "static/js/2.eb0a333e.chunk.js",
+    "static/css/main.18382c26.chunk.css",
+    "static/js/main.7afacc9c.chunk.js"
+  ]
+}
