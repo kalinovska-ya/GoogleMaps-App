@@ -1,6 +1,6 @@
 ## GP Solutions test task
 
-
+Site is published at [https://kalinovska-ya.github.io/GoogleMaps-App/] 
 
 ### `npm start`
 
